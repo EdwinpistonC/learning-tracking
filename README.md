@@ -16,4 +16,4 @@ Lista de tecnologáis que voy siguiendo en la plataforma :
 
 
 
-[Pthon](https://github.com/EdwinpistonC/learning-tracking/issues/2)
+[Python](https://github.com/EdwinpistonC/learning-tracking/issues/2)
